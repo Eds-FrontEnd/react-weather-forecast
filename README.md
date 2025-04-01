@@ -47,6 +47,6 @@ Acesse o site OpenWeather, realize o cadastro e vá na opção My API Keys. Copi
 
 ## Mais Detalhes sobre o Projeto
 
-Eita Este projeto se comunica com a API para retornar a previsão do tempo para os próximos 5 dias e é responsivo.
+Este projeto se comunica com a API para retornar a previsão do tempo para os próximos 5 dias e é responsivo.
 
 ![Responsividade](/src/assets/img/readme.png)
